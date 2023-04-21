@@ -1,0 +1,1 @@
+Hacer un programa en c++ que se ingrese una frase y con una función int ContarLetraA(string f) cuente la cantidad de vocales que tiene la misma

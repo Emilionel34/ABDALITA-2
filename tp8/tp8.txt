@@ -1,0 +1,4 @@
+Escribir un programa que calcule el valor de un mensaje dado. Para calcularlo, consid-
+eraremos que s  ́olo tienen valor las letras, y que cada letra tiene mayor valor cuanto mas
+
+infrecuente es, seg  ́un se puede apreciar en esta tabla:
