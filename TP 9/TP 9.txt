@@ -1,0 +1,1 @@
+Hacer una función llamada int CambiarDictado (string frase) que devuelva la cantidad de letras que faltan para hacerla palíndroma

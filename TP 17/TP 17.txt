@@ -1,0 +1,8 @@
+FACTORIAL DE UN NÚMERO ( n! )
+ 
+El factorial de un número entero positivo se define como el producto de todos los números naturales anteriores o iguales a él.
+Se escribe n!, y se lee "n factorial". (Por definición el factorial de 0 es 1: 0!=1)
+
+Por ejemplo, 5! = 5*4*3*2*1 = 120
+
+Hacer una funcion que ingrese un número y devuelva el factorial del mismo

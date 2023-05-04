@@ -1,0 +1,8 @@
+Realizar un programa en c++  que lea por teclado una cadena y un carácter, e inserte el carácter entre cada letra de la cadena.
+ Ej:
+Entrada: 
+ separar  ,  
+
+
+Salida:
+  s,e,p,a,r,a,r   --  con una función que devuelva una nueva cadena de caracteres. -
