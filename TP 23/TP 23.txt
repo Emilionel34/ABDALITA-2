@@ -1,0 +1,1 @@
+Hacer un programa en C++ donde se cree una función que encuentre cada factor de un número dado n. Su solución debe devolver un vector de los números que cumplan con este criterio.

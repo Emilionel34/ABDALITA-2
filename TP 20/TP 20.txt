@@ -1,0 +1,1 @@
+Escribir un programa en C++ que tenga un vector de 100 elementos con números aleatorios menores a 150. Hacer una función llamada int ContarMultiplosdeDos (vector<int> V); Entre los archivos se encuentra un pdf con otras indicaciones para el segundo programa

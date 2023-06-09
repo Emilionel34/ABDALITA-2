@@ -1,0 +1,1 @@
+Escriba un programa en C++ que tenga números aleatorios menores a 30. Generar una función que tome un vector y devuelva un vector con dos elementos: El primer elemento debe ser la suma de todos los números pares del vector. El segundo elemento debe ser la suma de todos los números impares del vector.

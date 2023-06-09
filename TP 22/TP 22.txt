@@ -1,0 +1,1 @@
+Hacer un programa en C++ donde se cree un vector con números aleatorios menores a 30. Hacer una función que tome el vector y devuelva un vector de la suma acumulada.
